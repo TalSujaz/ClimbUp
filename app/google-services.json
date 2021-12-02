@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "737377620494",
+    "firebase_url": "https://theta-cider-207610.firebaseio.com",
+    "project_id": "theta-cider-207610",
+    "storage_bucket": "theta-cider-207610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737377620494:android:6819b311e4c12a117ce25f",
+        "android_client_info": {
+          "package_name": "com.example.climbup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737377620494-2kckpcnqv9jqumb5pq20t3a9ljuc8beq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXk3V0OHD_G8MDLOHPBflJk4nsPj85INc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737377620494-2kckpcnqv9jqumb5pq20t3a9ljuc8beq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737377620494:android:193ba6464299747a7ce25f",
+        "android_client_info": {
+          "package_name": "com.example.climbup1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737377620494-2kckpcnqv9jqumb5pq20t3a9ljuc8beq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXk3V0OHD_G8MDLOHPBflJk4nsPj85INc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737377620494-2kckpcnqv9jqumb5pq20t3a9ljuc8beq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
